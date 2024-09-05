@@ -95,6 +95,7 @@ In DynamoDB, you need those permissions:
 - dynamodb:Query
 - dynamodb:PutItem
 - dynamodb:UpdateItem
+- dynamodb:UpdateItem
 
 ### Enabling concurrent writes for alternative clients
 
